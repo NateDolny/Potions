@@ -11,9 +11,11 @@ the theme to potions.vim and your ready to start enjoying this beautiful syntax 
 - Terminal colors support
 
 # Screenshots
-<img width="1635" alt="Screenshot 2022-12-30 at 9 49 31 PM" src="https://user-images.githubusercontent.com/45297149/210123917-b88357e0-9b71-4ec4-a117-4c38fecd911c.png">
+<img width="1800" alt="Screenshot 2022-12-31 at 10 45 34 PM" src="https://user-images.githubusercontent.com/45297149/210161220-22a7e6f6-1455-4255-994d-abd402ba56ff.png">
 
-![Potions_colours5](https://user-images.githubusercontent.com/45297149/210125354-a0207823-9931-45e2-9631-541bd85c4e93.png)
+# Colour Palette
+
+![potionsColours](https://user-images.githubusercontent.com/45297149/210161058-284de5c5-c64f-4ec3-bf9b-fa2fcc78e4cc.png)
 
 # License
 MIT License. See `LICENSE.txt` for more information.
