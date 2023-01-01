@@ -11,7 +11,10 @@ the theme to potions.vim and your ready to start enjoying this beautiful syntax 
 - Terminal colors support
 
 # Screenshots
+### Dark mode
 <img width="1800" alt="Screenshot 2022-12-31 at 11 23 11 PM" src="https://user-images.githubusercontent.com/45297149/210161951-5056fa83-7af9-4889-b6dc-bac2084ec691.png">
+
+### Light mode
 <img width="1800" alt="Screenshot 2022-12-31 at 11 24 33 PM" src="https://user-images.githubusercontent.com/45297149/210161952-f03ab156-ccd7-42c2-8415-59fee45824f4.png">
 
 ![Potionsscreenshot](https://user-images.githubusercontent.com/45297149/210161931-df0e636a-fcc5-451c-a257-005b88cc9843.png)
